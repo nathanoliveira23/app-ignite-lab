@@ -6,7 +6,7 @@
 
 [https://app-ignite-lab-sage.vercel.app/](https://app-ignite-lab-sage.vercel.app/)
 
-<h2>Project Screenshots:</h2>
+<h2>📷 Project Screenshots:</h2>
 
 <div align= "center">
   <img src="https://user-images.githubusercontent.com/103507450/182047332-36bff1a0-bdd1-4722-874a-3b2d5a39222d.png" alt="project-screenshot" width="600" height="400/">
